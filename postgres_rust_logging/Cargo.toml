@@ -9,5 +9,6 @@ edition = "2018"
 [dependencies]
 postgres = "0.17.4"
 uuid = { version = "0.8", features = ["v4"] }
+chrono = "0.4"
 dotenv = "0.15.0"
 smartstring = "0.2.3"
